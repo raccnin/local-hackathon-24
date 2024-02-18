@@ -118,7 +118,7 @@ function tenorCallback_search(responsetext)
 function grab_data(search_term)
 {
     // set the apikey and limit
-    var apikey = "AIzaSyB-WCAXFCvcOJGi-8MK6wEqJUTX3X8inNw";
+    var apikey = "";
     var clientkey = "my_test_app";
     var lmt = 8;
 
